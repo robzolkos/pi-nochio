@@ -1,6 +1,6 @@
 {
   "name": "@robzolkos/pi-nocchio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tiny Pi extension that adds --dump-system-prompt.",
   "license": "MIT",
   "type": "module",
@@ -24,7 +24,7 @@
     "LICENSE"
   ],
   "peerDependencies": {
-    "@mariozechner/pi-coding-agent": "*"
+    "@earendil-works/pi-coding-agent": "*"
   },
   "pi": {
     "extensions": [

@@ -1,6 +1,6 @@
 # pi-nocchio
 
-A tiny [Pi](https://github.com/badlogic/pi-mono) package that adds a CLI flag for printing Pi's assembled system prompt.
+A tiny [Pi](https://github.com/earendil-works/pi-mono) package that adds a CLI flag for printing Pi's assembled system prompt.
 
 ## What it does
 
